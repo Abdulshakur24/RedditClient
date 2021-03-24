@@ -1,0 +1,23 @@
+.searchBar {
+    border: none;
+    margin: 1.2rem 0;
+    width: 33%;
+    min-width: 300px;
+    min-height: 40px;
+    padding-left: 15px;
+}
+
+.searchBar:focus {
+    border: none !important;
+}
+
+@media only screen and (max-width: 640px) {
+    .searchBar {
+        border: none;
+        margin: 0 0 1.2rem 0;
+        width: 33%;
+        min-width: 330px;
+        min-height: 40px;
+        padding-left: 15px;
+    }
+}

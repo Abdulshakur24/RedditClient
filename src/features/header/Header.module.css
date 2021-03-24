@@ -1,0 +1,41 @@
+.mainHeader {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #1484D6;
+    position: fixed;
+    top: 0;
+    max-width: 960px;
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+
+}
+
+.mainHeader a {
+    text-decoration: none;
+}
+
+.mainHeader h1 {
+    width: 33%;
+    min-width: 250px;
+    text-align: left;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.mainHeader h1:hover {
+    cursor: pointer;
+}
+
+.mainHeader h1 span {
+    font-weight: 100;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.mainHeader img {
+    margin-right: 0;
+}
