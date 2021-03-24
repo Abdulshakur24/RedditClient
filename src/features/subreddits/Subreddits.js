@@ -37,7 +37,7 @@ export const Subreddits = (props) => {
                             onClick={() => dispatch(changeActiveSubreddit(item.url))}
                             className={activeSub === item.url ? styles.activeSub : undefined}
                         >
-                            <img src={item.icon} onError={(e) => e.target.src = props.logo} />
+                            <img src={item.icon} alt={""} onError={(e) => e.target.src = props.logo} />
                             {item.name}
                         </li>
                     </Link>

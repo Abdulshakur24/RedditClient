@@ -1,14 +1,11 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import { useDispatch, useSelector } from 'react-redux';
-import { useEffect } from 'react';
 
-import logo from './logo.svg';
 import redditLogo from './redditLogo.png';
 import './App.css';
 
