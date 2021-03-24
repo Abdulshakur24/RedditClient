@@ -6,7 +6,7 @@
 
 ---
 
-**Project Requirements:**
+##Project Requirements:
 
 - Build the application using React and Redux
 - Version control your application with Git and host the repository on GitHub
@@ -31,7 +31,7 @@
 
 ---
 
-**Prerequisites:**
+##Prerequisites:
 
 - HTML
 - CSS
