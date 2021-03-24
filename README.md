@@ -1,4 +1,4 @@
-#Reddit Client
+# Reddit Client
 
 **React-Redux Codecademy Project**
 
@@ -6,7 +6,7 @@
 
 ---
 
-##Project Requirements:
+## Project Requirements:
 
 - Build the application using React and Redux
 - Version control your application with Git and host the repository on GitHub
@@ -31,7 +31,7 @@
 
 ---
 
-##Prerequisites:
+## Prerequisites:
 
 - HTML
 - CSS
@@ -44,8 +44,6 @@
 - Wireframing
 
 ---
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
